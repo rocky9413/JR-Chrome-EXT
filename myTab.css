@@ -1,6 +1,10 @@
 body#gsr.hp.vasq.big {
-    background-image: url("https://picsum.photos/200/300");
+    background-image: url("https://source.unsplash.com/random/?Motivational");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+img#hplogo {
+    visibility: hidden;
 }
